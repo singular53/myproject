@@ -16,5 +16,6 @@ list1 = []
 def myfun():
     pass
 
-
+# 第七天
+# 面向对象
 
