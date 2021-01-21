@@ -8,3 +8,6 @@ for a in range(10):
 # 第四天 判断if
 if a:
     pass
+# 第六天
+def myfun():
+    pass
